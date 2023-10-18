@@ -210,7 +210,6 @@
 
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
-
 }
 
 .lots__look-more-link {
@@ -283,7 +282,7 @@
 }
 
 .footer__link_active {
-text-decoration: none;
+  text-decoration: none;
 }
 
 .footer__social-list {
